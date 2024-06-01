@@ -1,0 +1,1 @@
+streamlit  run ‘/Users/shashanks/Desktop/multiple-disease-prediction-streamlit-app/app.py’
